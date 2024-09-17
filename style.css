@@ -1,19 +1,27 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Myia Nguyen
+ *UnityID: mcnguye2
+ *Date: 09/17/2024
+ *Assignment: Independent Assignment 4
+ *Description: Independent Assignment 4: Music Webpage
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color:ghostwhite;
 }
 
-.class {
-    property: value;
+style{
+    background-color: #b80101;
 }
 
-#id {
-    property:value;
+.table-border {
+    border: 1px solid ghostwhite;
+}
+
+#photo-resize {
+    border: 2px solid #00FF00;
+    max-width: 200px;
+    max-height: 250px;
 }
