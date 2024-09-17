@@ -9,7 +9,7 @@
 p {
     font-family: Times;
     font-size: 16px;
-    color:ghostwhite;
+    color:#000000;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 .table-border {
-    border: 1px solid ghostwhite;
+    border: 1px solid #FFFFFF;
 }
 
 #photo-resize {
